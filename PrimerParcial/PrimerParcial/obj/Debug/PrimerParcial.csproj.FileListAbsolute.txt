@@ -1,0 +1,7 @@
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.AssemblyReference.cache
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\Keany\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
